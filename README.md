@@ -1,5 +1,5 @@
 # logreg-linreg
-Logistic and Linear Regression in Python
+### Logistic and Linear Regression in Python
 
 Performing logistic regression in Python using:
 - regplot function from the seaborn library
