@@ -16,3 +16,4 @@ Performing **linear** regression in Python using:
 
 Bootstrap method application is demonstrated for the purpose of estimating confidence intervals on linear regression coefficients and predictions.
 
+HTML offprint of the Jupyter Notebook can be viewed [here](https://htmlpreview.github.io/?https://github.com/sarajcev/logreg-linreg/blob/master/logreg-compare.html).
